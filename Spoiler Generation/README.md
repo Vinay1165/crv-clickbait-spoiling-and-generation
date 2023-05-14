@@ -53,3 +53,6 @@
 
 	b. For milestone 3, as same as above, set the 'model' variable equal to the corresponding one
 	
+	
+	c. Since the trianed model we saved is to big, we can't uplaod them to github
+	
