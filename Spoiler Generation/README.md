@@ -1,5 +1,3 @@
-Instruction
-
 1. Open the either ./Milestone2/Baseline.ipynb or ./Milestone3/Final.ipynb
 
 2. Run the Environment section
