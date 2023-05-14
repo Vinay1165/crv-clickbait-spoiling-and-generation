@@ -1,4 +1,4 @@
-# Classifier - Milestone 2
+# Classifier 
 
 This repository contains code for a classifier implemented in Python, including data preprocessing, feature extraction, and model training. It provides different algorithms such as Logistic Regression, Naive Bayes, Support Vector Machine (SVM), BERT, and RoBERTa for classification tasks.
 
