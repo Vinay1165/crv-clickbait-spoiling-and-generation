@@ -1,6 +1,7 @@
 1. Open the either ./Milestone2/Baseline.ipynb or ./Milestone3/Final.ipynb
 
 2. Run the Environment section
+	 	
 	a. You can set the model by change the model_name variable. You can find the list of the model in the corresponding notebook.
 	b. You can the the type_of_data to 'phrase' or 'passage' to choose which kind the spilor you want to generate.	
 
