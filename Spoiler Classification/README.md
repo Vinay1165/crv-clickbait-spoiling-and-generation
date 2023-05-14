@@ -10,6 +10,7 @@ To run the code, follow these steps:
 
 ```shell
 pip install transformers nltk torch tensorflow sklearn pandas numpy
+```
 
 
 2. Download the necessary data files and update the file paths in the code accordingly.
