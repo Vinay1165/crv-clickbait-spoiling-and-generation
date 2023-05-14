@@ -25,6 +25,3 @@ Instruction
 6. Run the evaluation section
 	Set the model_dir to your trained model.
 	For milestone 3, as same as above, set the 'model' variable equal to the corresponding one
-	You can also used our trained model. 
-		For milestone 2, due to the memory size of the google drive, unfortunately we lost all the models. 
-		For milestoen 3, they are in the ./Milestone3/tuned_models/
